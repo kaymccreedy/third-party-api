@@ -1,0 +1,7 @@
+### Art Resources (Harvard)
+GET http://localhost:3000/artresources.json
+Content-Type: application/json
+
+{
+  "resource_type": "culture"
+}
